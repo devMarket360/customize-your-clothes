@@ -1,0 +1,8 @@
+/*Crear modelo*/
+.form-check-inline input[type=checkbox] { margin-top: 0; }
+.subtitle-file { margin-top: 5%;}
+.wp-admin input[type=file] { padding: 3px 6px; }
+.enviar { margin-top: 3%; }
+#overlaymodal { position: absolute; z-index: 99; width: 102.5%; height: 100%; top: 0; left: -20px; background: rgba(0, 0, 0, 0.548);}
+#modal-upload { position: fixed; z-index: 999; width: 50%; padding: 5% 10%; top: 16%; left: 28%; background: #fff; text-align: center; border-radius: 10px;}
+.upload-img { width: 60%; }
